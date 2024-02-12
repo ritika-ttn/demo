@@ -1,1 +1,2 @@
-This is my Branch file
+This is my Branch file, which has been edited from GitHub UI
+
